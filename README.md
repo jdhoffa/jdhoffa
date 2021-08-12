@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdhoffa" alt="jdhoffa" /> </p>  
   
-### Hello!
+### Hello 👋!
 
 I'm a software developer at [2 Degrees Investing Initiative](https://2degreesinvesting.org)
 
