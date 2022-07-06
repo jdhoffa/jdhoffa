@@ -2,7 +2,7 @@
   
 ### Hello 👋
 
-I'm a software developer at [2 Degrees Investing Initiative](https://2degrees-investing.org)
+I'm a software developer at [RMI](https://https://rmi.org/)
 
 You can learn about me at [jdhoffa.github.io](https://jdhoffa.github.io)
   
