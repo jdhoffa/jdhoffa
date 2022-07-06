@@ -2,7 +2,7 @@
   
 ### Hello 👋
 
-I'm a software developer at [RMI](https://https://rmi.org/)
+I'm a software developer at [RMI](https://rmi.org/)
 
 You can learn about me at [jdhoffa.github.io](https://jdhoffa.github.io)
   
