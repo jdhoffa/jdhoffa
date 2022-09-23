@@ -4,7 +4,7 @@
 
 - 💼 Software Developer at [RMI](https://rmi.org/)
 
-- ⛰️ Snowboarder, rock-climber, mountain-bikers, anything with an incline really
+- ⛰️ Snowboarder, rock-climber, mountain-biker, anything with an incline really
 
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/jackson-hoffart/)
 
