@@ -1,6 +1,6 @@
 **About me**
 
-- 💼 Software Developer, Open Sourcer and Environmentalist at [RMI](https://rmi.org/)
+- 💼 Software Developer at [RMI](https://rmi.org/)
 
 - ⛰️ Snowboarder, rock-climber, mountain-biker
 
