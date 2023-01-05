@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
 **I'm an Early 🐤** 
 
@@ -43,18 +43,16 @@ Sunday       6 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Go                       16 mins             █████████████████░░░░░░░░   70.8% 
-Lua                      6 mins              ███████░░░░░░░░░░░░░░░░░░   29.2%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-go-movies-crud           16 mins             █████████████████░░░░░░░░   70.8% 
-dotfiles                 6 mins              ███████░░░░░░░░░░░░░░░░░░   29.2%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -71,5 +69,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2023 18:39:59 UTC
+ Last Updated on 05/01/2023 18:39:55 UTC
 <!--END_SECTION:waka-->
