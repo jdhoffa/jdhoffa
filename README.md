@@ -5,9 +5,6 @@
 - ⛰️ Snowboarder, rock-climber, mountain-biker
 
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/jackson-hoffart/)
-
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdhoffa&show_icons=true&include_all_commits=true&hide_border=true" alt="Jackson's GitHub stats" /></a>|
-| ------------- |
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2043%20mins-blue)
