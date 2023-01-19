@@ -2,7 +2,7 @@
 
 - 💼 Software Developer at [RMI](https://rmi.org/)
 
-- ⛰️ Snowboarder, rock-climber, mountain-biker
+- ⛰️ Environmentalist, snowboarder, rock-climber
 
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/jackson-hoffart/)
  
