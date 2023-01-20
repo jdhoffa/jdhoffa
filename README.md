@@ -7,9 +7,9 @@
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/jackson-hoffart/)
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **I'm an Early 🐤** 
 
@@ -71,5 +71,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2023 16:14:56 UTC
+ Last Updated on 20/01/2023 18:39:45 UTC
 <!--END_SECTION:waka-->
