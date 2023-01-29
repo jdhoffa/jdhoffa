@@ -7,7 +7,7 @@
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/jackson-hoffart/)
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
@@ -74,5 +74,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2023 18:36:45 UTC
+ Last Updated on 29/01/2023 18:36:32 UTC
 <!--END_SECTION:waka-->
