@@ -4,6 +4,8 @@
 
 - ⛰️ Environment, snowboarding, rock-climbing
 
+- 🌱 Check out my [digital garden](https://jdhoffa.github.io/)
+
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/jackson-hoffart/)
  
 <!--START_SECTION:waka-->
