@@ -2,7 +2,7 @@
 
 - 💼 Open source developer at [RMI](https://rmi.org/)
 
-- ⛰️ Environment, snowboarding, rock-climbing
+- ⛰️ Environmentalist, snowboarder, rock-climber
 
 - 🌱 Check out my [digital garden](https://jdhoffa.github.io/)
 
