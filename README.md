@@ -1,4 +1,4 @@
-**About me**
+### :man_technologist: About Me
 
 - 💼 Open source developer at [RMI](https://rmi.org/)
 
@@ -6,7 +6,25 @@
 
 - 🌱 Check out my [digital garden](https://jdhoffa.github.io/)
 
-- 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/jackson-hoffart/)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" title="rstudio" **alt="RStudio" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" **alt="docker" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="vim" **alt="vim" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="python" **alt="python" width="40" height="40"/>&nbsp; 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" **alt="git" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-plain.svg" title="hugo" **alt="hugo" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain.svg" title="azure" **alt="azure" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg" title="go" **alt="go" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :chart_with_upwards_trend: Statistics:
+
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2048%20mins-blue)
