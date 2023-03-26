@@ -1,10 +1,14 @@
-### :man_technologist: About Me
+<p align="center">
+<h3 align="center"> About Me</h3>
+<p align="center">💼 Open source developer at <a href="https://rmi.org/" alt="RMI">RMI</a></p>
+<p align="center">⛰️ Environmentalist, snowboarder, rock-climber</p>
+<p align="center">🌱 Check out my <a href="https://rmi.org/" alt="digital garden">digital garden</a></p>
+</p>
 
-- 💼 Open source developer at [RMI](https://rmi.org/)
-
-- ⛰️ Environmentalist, snowboarder, rock-climber
-
-- 🌱 Check out my [digital garden](https://jdhoffa.github.io/)
+<p align="center">
+<a href="https://www.linkedin.com/in/jackson-hoffart/"><img src="https://img.shields.io/badge/LinkedIn-374B4A?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"/></a>
+<a href="https://twitter.com/jdhoffart"><img src="https://img.shields.io/badge/Twitter-75AADB?logo=twitter&logoColor=fff&style=flat-square" alt="Twitter"/></a>
+</p>
 
 ---
 
