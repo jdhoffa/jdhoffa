@@ -2,7 +2,7 @@
 <h3 align="center"> About Me</h3>
 <p align="center">💼 Open source developer at <a href="https://rmi.org/" alt="RMI">RMI</a></p>
 <p align="center">⛰️ Environmentalist, snowboarder, rock-climber</p>
-<p align="center">🌱 Check out my <a href="https://rmi.org/" alt="digital garden">digital garden</a></p>
+<p align="center">🌱 Check out my <a href="https://jdhoffa.github.io/" alt="digital garden">digital garden</a></p>
 </p>
 
 <p align="center">
