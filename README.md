@@ -21,7 +21,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" **alt="git" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-plain.svg" title="hugo" **alt="hugo" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain.svg" title="azure" **alt="azure" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg" title="go" **alt="go" width="40" height="40"/>&nbsp;
 </div>
 
 ---
