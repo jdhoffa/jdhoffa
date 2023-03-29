@@ -5,8 +5,9 @@
 <p> :seedling: Check out my <a href="https://jdhoffa.github.io/" alt="digital garden">digital garden</a> (WIP) </p>
 
 <p>
-<a href="https://www.linkedin.com/in/jackson-hoffart/"><img src="https://img.shields.io/badge/LinkedIn-A4969B?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"/></a>
-<a href="https://twitter.com/jdhoffart"><img src="https://img.shields.io/badge/Twitter-59D2FE?logo=twitter&logoColor=fff&style=flat-square" alt="Twitter"/></a>
+:iphone: You can reach me here:
+<a href="https://www.linkedin.com/in/jackson-hoffart/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"/></a>
+<a href="https://twitter.com/jdhoffart"><img src="https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=flat-square" alt="Twitter"/></a>
 </p>
 
 ---
