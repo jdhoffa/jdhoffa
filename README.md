@@ -2,7 +2,7 @@
 #### I'm Jackson, I build tools and contribute research to fight the climate crisis
 <p> :briefcase: Open source developer at <a href="https://rmi.org/" alt="RMI">RMI</a></p>
 <p> :mountain: Environmentalist, snowboarder, rock-climber</p>
-<p> :seedling: Check out my <a href="https://jdhoffa.github.io/" alt="digital garden">digital garden</a></p>
+<p> :seedling: Check out my <a href="https://jdhoffa.github.io/" alt="digital garden">digital garden</a> (WIP) </p>
 
 <p>
 <a href="https://www.linkedin.com/in/jackson-hoffart/"><img src="https://img.shields.io/badge/LinkedIn-374B4A?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"/></a>
