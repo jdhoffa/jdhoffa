@@ -5,7 +5,7 @@
 <p> :seedling: Check out my <a href="https://jdhoffa.github.io/" alt="digital garden">digital garden</a> (WIP) </p>
 
 <p>
-<a href="https://www.linkedin.com/in/jackson-hoffart/"><img src="https://img.shields.io/badge/LinkedIn-374B4A?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/jackson-hoffart/"><img src="https://img.shields.io/badge/LinkedIn-492122?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"/></a>
 <a href="https://twitter.com/jdhoffart"><img src="https://img.shields.io/badge/Twitter-75AADB?logo=twitter&logoColor=fff&style=flat-square" alt="Twitter"/></a>
 </p>
 
