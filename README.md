@@ -5,8 +5,8 @@
 <p> :seedling: Check out my <a href="https://jdhoffa.github.io/" alt="digital garden">digital garden</a> (WIP) </p>
 
 <p>
-<a href="https://www.linkedin.com/in/jackson-hoffart/"><img src="https://img.shields.io/badge/LinkedIn-C92B30?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"/></a>
-<a href="https://twitter.com/jdhoffart"><img src="https://img.shields.io/badge/Twitter-75AADB?logo=twitter&logoColor=fff&style=flat-square" alt="Twitter"/></a>
+<a href="https://www.linkedin.com/in/jackson-hoffart/"><img src="https://img.shields.io/badge/LinkedIn-A4969B?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"/></a>
+<a href="https://twitter.com/jdhoffart"><img src="https://img.shields.io/badge/Twitter-59D2FE?logo=twitter&logoColor=fff&style=flat-square" alt="Twitter"/></a>
 </p>
 
 ---
@@ -16,8 +16,8 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" title="rstudio" **alt="RStudio" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" **alt="docker" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>&nbsp; 
  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="vim" **alt="vim" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="python" **alt="python" width="40" height="40"/>&nbsp; 
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" **alt="git" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-plain.svg" title="hugo" **alt="hugo" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain.svg" title="azure" **alt="azure" width="40" height="40"/>&nbsp;
