@@ -20,6 +20,7 @@
  <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/></a>&nbsp; 
  <a href="https://www.vim.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="vim" **alt="vim" width="40" height="40"/></a>&nbsp;
  <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" **alt="git" width="40" height="40"/></a>&nbsp;
+ <a href="https://www.rust-lang.org/"><img src="https://rustacean.net/assets/rustacean-flat-noshadow.svg" title="rust" **alt="rust" width="40" height="40"/></a>&nbsp;
  <a href="https://gohugo.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-plain.svg" title="hugo" **alt="hugo" width="40" height="40"/></a>&nbsp;
  <a href="https://azure.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain.svg" title="azure" **alt="azure" width="40" height="40"/></a>
 </div>
