@@ -1,35 +1,26 @@
-### Hi there :wave:
-#### I'm Jackson, I build tools and contribute research to fight the climate crisis
+## Hi there :wave:
+### I'm Jackson, I build tools and contribute research to fight the climate crisis
 <p> :briefcase: Open source developer at <a href="https://rmi.org/" alt="RMI">RMI</a></p>
 <p> :mountain: Environmentalist, snowboarder, rock-climber</p>
 <p> :seedling: Check out my <a href="https://jdhoffa.github.io/" alt="digital garden">digital garden</a> (WIP) </p>
 
-<p>
-:iphone: You can reach me here:
-<a href="https://www.linkedin.com/in/jackson-hoffart/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"/></a>
-<a href="https://twitter.com/jdhoffart"><img src="https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=flat-square" alt="Twitter"/></a>
-</p>
+---
+
+### :hammer_and_wrench: Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=r,docker,python,rust,html,css,js,neovim,git,postgresql,azure&perline=6&theme=dark)](https://skillicons.dev)
 
 ---
 
-#### :hammer_and_wrench: Languages and Tools :
-<div>
- <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" **alt="postgresql" width="40" height="40"/></a>&nbsp;
- <a href="https://posit.co/downloads/"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" title="rstudio" **alt="RStudio" width="40" height="40"/></a>&nbsp;
- <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" **alt="docker" width="40" height="40"/></a>&nbsp;
- <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/></a>&nbsp; 
- <a href="https://www.vim.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="vim" **alt="vim" width="40" height="40"/></a>&nbsp;
- <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" **alt="git" width="40" height="40"/></a>&nbsp;
- <a href="https://www.rust-lang.org/"><img src="https://rustacean.net/assets/rustacean-flat-noshadow.svg" title="rust" **alt="rust" width="40" height="40"/></a>&nbsp;
- <a href="https://gohugo.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-plain.svg" title="hugo" **alt="hugo" width="40" height="40"/></a>&nbsp;
- <a href="https://azure.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain.svg" title="azure" **alt="azure" width="40" height="40"/></a>
-</div>
+### :iphone: Socials
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jackson-hoffart/) 
+[![Github](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/jdhoffa) 
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/jdhoffart) 
 
 ---
-  
-  
 
-#### :chart_with_upwards_trend: Statistics:
+### :chart_with_upwards_trend: Statistics:
 
  
 <!--START_SECTION:waka-->
