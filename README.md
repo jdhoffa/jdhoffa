@@ -51,16 +51,16 @@ Sunday                   143 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dotfiles                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in R** 
@@ -76,5 +76,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2023 18:36:14 UTC
+ Last Updated on 01/09/2023 18:36:32 UTC
 <!--END_SECTION:waka-->
