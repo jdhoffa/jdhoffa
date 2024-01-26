@@ -1,4 +1,4 @@
-## Hi there :wave:
+## :wave: Hi there
 ### I'm Jackson, I build tools and contribute research to fight the climate crisis
 <p> :briefcase: Open source developer at <a href="https://rmi.org/" alt="RMI">RMI</a></p>
 <p> :mountain: Environmentalist, snowboarder, rock-climber</p>
