@@ -20,7 +20,7 @@
 
 ---
 
-### :chart_with_upwards_trend: Statistics:
+### :chart_with_upwards_trend: Statistics
 
  
 <!--START_SECTION:waka-->
