@@ -17,4 +17,5 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
         secrets:
+          GH_TOKEN: ${{ secrets.WAKATIME_GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
