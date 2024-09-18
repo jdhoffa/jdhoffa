@@ -1,6 +1,6 @@
 ## :wave: Hi there
 ### I'm Jackson, I build tools and contribute research to fight the climate crisis
-<p> :briefcase: Open source developer at <a href="https://rmi.org/" alt="RMI">RMI</a></p>
+<p> :briefcase: Software engineering manager at <a href="https://rmi.org/" alt="RMI">RMI</a></p>
 <p> :mountain: Environmentalist, snowboarder, rock-climber</p>
 <p> :seedling: Check out my <a href="https://jdhoffa.github.io/" alt="digital garden">digital garden</a> (WIP) </p>
 
