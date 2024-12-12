@@ -2,7 +2,7 @@
 ### I'm Jackson, I build tools and contribute research to fight the climate crisis
 <p> :briefcase: Software engineering manager at <a href="https://rmi.org/" alt="RMI">RMI</a></p>
 <p> :mountain: Environmentalist, snowboarder, rock-climber</p>
-<p> :crab: If you're an R developer interested in Rust, consider joining r-staceans <a href="https://github.com/r-staceans" alt="r-staceans"> </p>
+<p> :crab: If you're an R developer interested in Rust, consider joining <a href="https://github.com/r-staceans" alt="r-staceans">r-staceans</a></p>
 
 ---
 
