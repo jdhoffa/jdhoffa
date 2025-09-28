@@ -8,7 +8,7 @@
 
 ### :hammer_and_wrench: Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=r,python,rust,docker,svelte,js,neovim,azure,postgresql,kubernetes,html,css&perline=6&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python,rust,docker,js,ts,neovim,azure,postgresql,react,html,css&perline=6&theme=dark)](https://skillicons.dev)
 
 ---
 
