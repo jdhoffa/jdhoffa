@@ -25,7 +25,7 @@
 
  
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2030%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -54,48 +54,48 @@ Sunday                   79 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 3 hrs               ████████░░░░░░░░░░░░░░░░░   33.38 % 
-JavaScript               2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.82 % 
-Python                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-TypeScript               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Markdown                 2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   41.66 % 
+JavaScript               1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+TypeScript               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 8 mins        ████████████████████░░░░░   79.40 % 
-Neovim                   1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+Claude Code              5 hrs 7 mins        ███████████████████░░░░░░   74.92 % 
+Neovim                   1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
 
 🐱‍💻 Projects: 
-stitch                   5 hrs 56 mins       █████████████████░░░░░░░░   66.11 % 
-prospector               2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Unknown Project          55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-ccdf                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+stitch                   3 hrs 55 mins       ██████████████░░░░░░░░░░░   57.32 % 
+prospector               2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.05 % 
+Unknown Project          47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+ccdf                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 stitch-etl-poc           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      8 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 23 mins (82.16%)
+⏱ AI Coding Time: 5 hrs 22 mins (78.55%)
 
-✍️ 1,664 lines written by AI, 24 lines written by hand (98.58% AI-written)
+✍️ 1,213 lines written by AI, 16 lines written by hand (98.7% AI-written)
 
-🔤 2,252,341 Input Tokens, 272,403 Output Tokens
+🔤 1,554,117 Input Tokens, 210,107 Output Tokens
 
-💵 $63.01 Estimated AI Cost This Week
+💵 $38.40 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 100 AI Prompts
+🧠 22 AI Sessions, 81 AI Prompts
 
-Opus                     2,011 lines         █████████████████████████   100.00 % 
+Opus                     1,484 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.58% of written lines came from AI
-📄 Detailed Prompter — average 1,022 characters per prompt
+🤖 AI-Driven — 98.7% of written lines came from AI
+📄 Detailed Prompter — average 997 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.95% of changed lines were hand-edited
+🚀 High AI Trust — 1.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in R** 
@@ -111,5 +111,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 19:02:48 UTC
+ Last Updated on 23/08/2026 19:03:04 UTC
 <!--END_SECTION:waka-->
