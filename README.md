@@ -30,21 +30,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2664 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-🌆 Daytime                8223 commits        ███████████████░░░░░░░░░░   58.12 % 
-🌃 Evening                3048 commits        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-🌙 Night                  214 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+🌞 Morning                2782 commits        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+🌆 Daytime                8556 commits        ██████████████░░░░░░░░░░░   57.77 % 
+🌃 Evening                3255 commits        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+🌙 Night                  218 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2605 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Tuesday                  2439 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Wednesday                2675 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Thursday                 3047 commits        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Friday                   3058 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-Saturday                 227 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Sunday                   98 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Monday                   2760 commits        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Tuesday                  2535 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Wednesday                2801 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Thursday                 3195 commits        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Friday                   3191 commits        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Saturday                 231 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Sunday                   98 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 
@@ -54,45 +54,47 @@ Sunday                   98 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               2 hrs 55 mins       ███████████████░░░░░░░░░░   59.27 % 
-YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Markdown                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+TypeScript               2 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.92 % 
+RMarkdown                1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+quarto                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 56 mins       █████████████████████████   100.00 % 
+Claude Code              6 hrs 23 mins       ███████████████████████░░   91.53 % 
+Neovim                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 🐱‍💻 Projects: 
-bloom_and_balance        4 hrs 33 mins       ███████████████████████░░   92.54 % 
-stitch                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-ccdf                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+bloom_and_balance        4 hrs 33 mins       ████████████████░░░░░░░░░   65.44 % 
+brinner_and_learn        1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+stitch                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+ccdf                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 💻 Operating System: 
-Mac                      4 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 56 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 28 mins (92.72%)
 
-✍️ 1,588 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,649 lines written by AI, 364 lines written by hand (81.92% AI-written)
 
-🔤 874,561 Input Tokens, 135,032 Output Tokens
+🔤 1,043,696 Input Tokens, 210,730 Output Tokens
 
-💵 $24.28 Estimated AI Cost This Week
+💵 $36.81 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 97 AI Prompts
+🧠 17 AI Sessions, 131 AI Prompts
 
-Opus                     2,066 lines         █████████████████████████   100.00 % 
+Opus                     2,218 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,096 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 81.92% of written lines came from AI
+📄 Detailed Prompter — average 840 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 17.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in R** 
@@ -108,5 +110,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 21:25:09 UTC
+ Last Updated on 09/09/2026 21:11:51 UTC
 <!--END_SECTION:waka-->
