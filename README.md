@@ -54,47 +54,48 @@ Sunday                   98 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
-RMarkdown                1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-quarto                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+TypeScript               1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+RMarkdown                1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Python                   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+quarto                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 49 mins       ███████████████████████░░   92.25 % 
-Neovim                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Claude Code              5 hrs 45 mins       ██████████████████████░░░   88.20 % 
+Neovim                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 
 🐱‍💻 Projects: 
-bloom_and_balance        4 hrs 33 mins       █████████████░░░░░░░░░░░░   53.81 % 
-brinner_and_learn        1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-stitch                   1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-ccdf                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+bloom_and_balance        2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
+stitch                   2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+brinner_and_learn        1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   30.55 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+ccdf                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-Mac                      8 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 58 mins (94.01%)
+⏱ AI Coding Time: 6 hrs (92.21%)
 
-✍️ 1,649 lines written by AI, 364 lines written by hand (81.92% AI-written)
+✍️ 790 lines written by AI, 364 lines written by hand (68.46% AI-written)
 
-🔤 1,050,377 Input Tokens, 215,070 Output Tokens
+🔤 942,676 Input Tokens, 151,618 Output Tokens
 
-💵 $37.68 Estimated AI Cost This Week
+💵 $26.85 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 158 AI Prompts
+🧠 11 AI Sessions, 106 AI Prompts
 
-Opus                     2,218 lines         █████████████████████████   100.00 % 
+Opus                     1,088 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.92% of written lines came from AI
-📄 Detailed Prompter — average 687 characters per prompt
+🤖 AI-Driven — 68.46% of written lines came from AI
+📄 Detailed Prompter — average 870 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 17.28% of changed lines were hand-edited
+🚀 High AI Trust — 28.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in R** 
@@ -110,5 +111,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 21:12:38 UTC
+ Last Updated on 12/09/2026 20:51:53 UTC
 <!--END_SECTION:waka-->
