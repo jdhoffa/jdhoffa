@@ -54,45 +54,45 @@ Sunday                   117 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    1 hr 37 mins        ███████████░░░░░░░░░░░░░░   43.06 % 
-Markdown                 1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-TypeScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-XML                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-gitignore                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Other                    1 hr 37 mins        ███████████░░░░░░░░░░░░░░   45.65 % 
+Markdown                 1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+TypeScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+XML                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+gitignore                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 35 mins       ████████████████████████░   94.87 % 
-Neovim                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Claude Code              3 hrs 24 mins       ████████████████████████░   95.44 % 
+Neovim                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🐱‍💻 Projects: 
-irpx                     1 hr 56 mins        █████████████░░░░░░░░░░░░   51.18 % 
-bloom_and_balance        48 mins             █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-stitch                   46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-okrs                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-practices                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+irpx                     1 hr 56 mins        ██████████████░░░░░░░░░░░   54.26 % 
+bloom_and_balance        48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+stitch                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+okrs                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+practices                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Mac                      3 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 37 mins (95.7%)
+⏱ AI Coding Time: 3 hrs 24 mins (95.44%)
 
 ✍️ 373 lines written by AI, 1 lines written by hand (99.73% AI-written)
 
-🔤 1,567,020 Input Tokens, 58,480 Output Tokens
+🔤 1,467,981 Input Tokens, 54,950 Output Tokens
 
-💵 $9.19 Estimated AI Cost This Week
+💵 $8.54 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 122 AI Prompts
+🧠 63 AI Sessions, 110 AI Prompts
 
 Opus                     382 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.73% of written lines came from AI
-📚 Verbose Prompter — average 15,345 characters per prompt
+📚 Verbose Prompter — average 16,980 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.26% of changed lines were hand-edited
 ```
@@ -110,5 +110,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 22:55:20 UTC
+ Last Updated on 10/10/2026 22:00:24 UTC
 <!--END_SECTION:waka-->
